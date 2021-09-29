@@ -1,5 +1,7 @@
 === Feedback
 
 _Bitte fügt hier euer Feedback hinzu._
+Toller Vortrag!
 
 _Alles ist willkommen, positiv, negativ, kurz, lang, Wort, Bild..._
+Vielleicht auch interessant: es gibt einen ISO-Standard für Opensource in Unternehmen : openchainproject.org 
